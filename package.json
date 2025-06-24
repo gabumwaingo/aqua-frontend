@@ -1,7 +1,7 @@
 {
   "name": "aqua_frontend",
   "version": "0.1.0",
-  "proxy": "http://13.61.144.228:5000",
+  "proxy": "https://aqua-backend-pzeo.onrender.com",
   "private": true,
   "dependencies": {
     "@tailwindcss/vite": "^4.1.8",
