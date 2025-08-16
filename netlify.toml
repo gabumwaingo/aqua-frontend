@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "https://aqua-ledger-api.onrender.com/:splat"
+  to = "https://aqua-backend-dov7.onrender.com/:splat"
   status = 200
